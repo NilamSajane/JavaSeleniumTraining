@@ -9,9 +9,13 @@ public class SeleniumExample {
 
         String browser = "Chrome";
 
-        WebDriver driver = null;
-        driver = WebDriverManager.chromedriver().create();
 
+        WebDriver driver = null;
+        if(browser == "Chrome") {
+            driver = WebDriverManager.chromedriver().create();
+        }else if(browser == "Firefox"){
+            driver = WebDriverManager.firefoxdriver().create();
+        }
       driver.get("https://www.amazon.in");
     }
 }

@@ -5,15 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35a9241c-60fb-4643-94fa-1f66b5156017" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day1/Operators1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day1/SeleniumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day1/JavaBasics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day1/JavaDataTypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day1/JavaDataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day1/JavaDataTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1/Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1/SumTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment1/SwapTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day1/Calculator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day1/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2/ExampleInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2/StringExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2/StringExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2/StringExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2/StringExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day2/StringExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3/Conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3/Conditions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3/ExampleCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day3/NestedIfConditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Loops1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Loops2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Loops3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Loops4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Loops5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/Loops6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day4/ToDo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day5/ToDo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Assignment/OperatorSubstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Assignment1/OperatorSubstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day1/SeleniumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day1/SeleniumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Assignment/OperatorSubstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day1/SeleniumExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day1/SeleniumExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +54,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/day4/Loops6.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,13 +74,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SeleniumExample">
-    <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Conditions" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.Calculator" />
       <module name="JavaSelenium24Sep22WkEnd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="Assignment2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Operator2" />
+    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Division" />
       <module name="JavaSelenium24Sep22WkEnd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="Assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Operator3" />
+    <configuration name="Modulus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Modulus" />
       <module name="JavaSelenium24Sep22WkEnd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="Assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.Operators4" />
+    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.Multiplication" />
       <module name="JavaSelenium24Sep22WkEnd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="Assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeleniumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.SeleniumExample" />
+    <configuration name="SwapTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment1.SwapTwoNumber" />
       <module name="JavaSelenium24Sep22WkEnd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="Assignment1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeleniumExample" />
-        <item itemvalue="Application.Conditions" />
-        <item itemvalue="Application.Operators4" />
-        <item itemvalue="Application.Operator3" />
-        <item itemvalue="Application.Operator2" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.SwapTwoNumber" />
+        <item itemvalue="Application.Division" />
+        <item itemvalue="Application.Modulus" />
+        <item itemvalue="Application.Multiplication" />
       </list>
     </recent_temporary>
   </component>
